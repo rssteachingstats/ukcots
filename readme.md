@@ -1,8 +1,8 @@
-# UK Conference on Teaching Statistics
+# Source code for UK Conference on Teaching Statistics website
 
-The first UK Conference on Teaching Statistics will be held in Manchester, 13-14 June, 2024.  It is aimed at all those who teach statistics in HE, from whatever department or discipline.  We are looking forward to hearing the best ideas and approaches from across the academic spectrum, so do put the dates in your diary.  If you would like to present, submissions will open in January 2024.  For regular updates, subscribe to UKCOTS@JISCMAIL.AC.UK
+The UKCOTS website is available at https://www.ukcots.org. This repository contains the source code for that website.
 
-## To build website
+## To build website statics files
 
 ```python
 # requires pypandoc and Jinja2
