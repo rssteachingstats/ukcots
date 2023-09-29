@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>UKCOTS</title>
+    <title>{{title}}</title>
     
     <!-- Include Bootstrap CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap/dist/css/bootstrap.min.css">
@@ -12,7 +12,7 @@
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container">
-            <a class="navbar-brand" href="#">UKCOTS 2024</a>
+            <a class="navbar-brand" href="#">{{home}}</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -36,25 +36,8 @@
 
     <!-- Page Content -->
     <div class="container mt-5">
-        
-<h1 id="ukcots-2024">UKCOTS 2024</h1>
-<p>The first UK Conference on Teaching Statistics will be held in the <a
-href="https://www.manchester.ac.uk">University of Manchester</a>, 13-14
-June, 2024. It is aimed at all those who teach statistics in HE, from
-whatever department or discipline. We are looking forward to hearing the
-best ideas and approaches from across the academic spectrum, so do put
-the dates in your diary.</p>
-<h2 id="submissions">Submissions</h2>
-<p>If you would like to present, submissions will open in December
-2023.</p>
-<h2 id="conference-mailing-list">Conference mailing list</h2>
-<p>We have a mailing list for regular updates updates about the
-conference. To subscribe, go to <a
-href="https://www.jiscmail.ac.uk/ukcots">https://www.jiscmail.ac.uk/ukcots</a>
-and and click <em>Subscribe or Unsubscribe</em> listed under
-<em>Options</em>.</p>
-
-
+        {% block content %}
+        {% endblock content %}
     </div>
 
     <!-- Include Bootstrap JS (optional) -->
