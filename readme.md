@@ -7,5 +7,5 @@ The first UK Conference on Teaching Statistics will be held in Manchester, 13-14
 ```python
 # requires pypandoc and Jinja2
 # pip install pypandoc Jinja2
-python render.py
+python build.py
 ```
