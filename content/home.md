@@ -6,9 +6,15 @@ The 2024 UKCOTS conference will also host the Annual Conference for Teachers of 
 UKCOTS is aimed at all those who teach statistics in higher education, from whatever department or discipline.
 We are looking forward to hearing the best ideas and approaches from across the academic spectrum, so do put the dates in your diary.
 
-## Submissions
+## Tentative timeline
 
-If you would like to present, submissions will open in December 2023.
+The following is our tentative timeline for deadlines and other dates prior to the conference start on 13 June, 2024:
+
+* *Call for abstracts opens*: 27 November, 2023
+* *Abstract submission deadline*: 9 February, 2024
+* *Notification of acceptance*: 29 March, 2024
+* *Registration opens*: 22 March, 2024
+* *Registration closes*: 31 May, 2024
 
 ## Conference mailing list 
 
