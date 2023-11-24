@@ -22,4 +22,5 @@ We have a mailing list for regular updates updates about the conference.
 To subscribe, go to [https://www.jiscmail.ac.uk/ukcots](https://www.jiscmail.ac.uk/ukcots) and and click *Subscribe or Unsubscribe* listed under *Options*.
 
 ## Any Questions?
-If you have any questions about the conference, please contact us at [ukcots24@gmail.com](ukcots24@gmail.com).
+
+If you have any questions about the conference, please contact us at <ukcots24@gmail.com>.
