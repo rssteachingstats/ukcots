@@ -17,9 +17,9 @@ Submit your proposal using the [online form](https://docs.google.com/forms/d/1-z
 The abstract deadline is **9th February 2024**.
 
 
-## Tentative timeline
+## Timeline
 
-The following is our tentative timeline for deadlines and other dates prior to the conference start on 13 June, 2024:
+The following is the timeline for deadlines and other dates prior to the conference start on 13 June, 2024:
 
 * *Call for abstracts opens*: 27 November, 2023
 * *Abstract submission deadline*: 9 February, 2024
