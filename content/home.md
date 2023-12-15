@@ -27,6 +27,10 @@ The following is the timeline for deadlines and other dates prior to the confere
 * *Registration opens*: 22 March, 2024
 * *Registration closes*: 31 May, 2024
 
+## Registration fee
+
+We anticipate the the conference registration fee will be £160 for two days, and £100 for one day. We expect to confirm these anticipated fees by February, 2024, at the latest.
+
 ## Conference mailing list 
 
 We have a mailing list for regular updates updates about the conference.
