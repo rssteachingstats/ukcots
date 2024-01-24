@@ -1,4 +1,4 @@
-# UKCOTS 2024
+# UKCOTS 2024: *Teaching Statistics in HE, across all disciplines*
 
 The [RSS Teaching Statistics Section](https://rss.org.uk/membership/rss-groups-and-committees/sections/teaching-statistics/) are delighted to announce that the first *UK Conference on Teaching Statistics* (UKCOTS) will be held at the University of Manchester, 13-14 June, 2024.
 The 2024 UKCOTS conference will also host the Annual Conference for Teachers of Statistics in Medicine and Allied Health Sciences (known as 'Burwalls'). 
