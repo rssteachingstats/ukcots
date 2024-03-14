@@ -8,28 +8,25 @@ UKCOTS is for everyone with an interest in the teaching of statistics in higher 
 We are looking forward to hearing the best ideas and approaches from across the academic spectrum, so do put the dates in your diary.
 
 
-### Call for abstracts - Deadline extended to Feb 16th!
+### Call for abstracts (now closed)
 
 Proposals can be for individual contributions of 5 minutes (e.g. lightning talk) or 20 minutes (e.g. longer talk or activity), which will be delivered as part of sessions programmed by the organisers. Alternatively, you may wish to propose an entire 60-minute session yourself (e.g. an interactive workshop, a series of connected talks, or a panel discussion). There is also the option of a poster presentation. We encourage creativity in your proposals, and interactivity will be viewed favourably. The conference will be in person only; presenters will be expected to join us in Manchester for the conference.  
 
 Submit your proposal using the [online form](https://docs.google.com/forms/d/1-z-jEh3XL0mndHQ8CMvzP6TdY9rCoYLQpzQhcldRc4A/viewform?edit_requested=true).
-
-The abstract deadline has now been extended to **16th February 2024**.
-
 
 ## Timeline
 
 The following is the timeline for deadlines and other dates prior to the conference start on 13 June, 2024:
 
 * *Call for abstracts opens*: 27 November, 2023
-* *Abstract submission deadline*: **16 February, 2024**
-* *Notification of acceptance*: 29 March, 2024
+* *Abstract submission deadline*: 16 February, 2024
+* *Notification of acceptance*: 15 March, 2024
 * *Registration opens*: 22 March, 2024
 * *Registration closes*: 31 May, 2024
 
 ## Registration fee
 
-We anticipate that the conference registration fee will be £160 for two days, and £100 for one day. We expect to confirm these anticipated fees by February, 2024, at the latest.
+The conference registration fee is £160 for two days, and £100 for one day.
 
 ## Conference mailing list 
 
