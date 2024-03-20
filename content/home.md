@@ -40,7 +40,7 @@ The conference will be held in the Alan Turing building (Upper Brook Street, Man
 
 ## Accomodation and dining in Manchester 
 
-Given that it is still term time, there is no university accommodation available.  However, Manchester is packed out with hotels at a range of prices, and there are plenty of hotel booking sites (plus Premier Inns!) from which you can choose one that suits you.
+On the dates of the conference, the University of Manchester's university accommodation is not available for use by conference attendees.  However, Manchester is packed out with hotels at a range of prices, and there are plenty of hotel booking sites (plus Premier Inns!) from which you can choose one that suits you.
 
 The conference fee includes coffee/tea/etc plus lunch.  We are not planning a formal conference dinner.  However, we are planning to reserve an area in the city centre for the Thursday evening where delegates can buy a meal from a range of delicious eateries and then sit together.  The previous evening we will nominate a pub where those who have arrived early can gather to drink, eat and make data.  When you register, you will be asked to indicate whether you are interested in either of these events so that we can gauge rough numbers.  We will firm up details closer to the conference.
 
