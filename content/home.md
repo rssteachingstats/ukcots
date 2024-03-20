@@ -28,10 +28,22 @@ The following is the timeline for deadlines and other dates prior to the confere
 
 The conference registration fee is £160 for two days, and £100 for one day.
 
+
 ## Conference mailing list 
 
 We have a mailing list for regular updates updates about the conference.
 To subscribe, go to [https://www.jiscmail.ac.uk/ukcots](https://www.jiscmail.ac.uk/ukcots) and and click *Subscribe or Unsubscribe* listed under *Options*.
+
+## Conference venue 
+
+The conference will be held in the Alan Turing building (Upper Brook Street, Manchester, M13 9SR; [interactive map](https://www.manchester.ac.uk/discover/maps/interactive-map/?id=44)), about a mile from the city centre and the major stations.  
+
+## Accomodation and dining in Manchester 
+
+Given that it is still term time and so there is no university accommodation available.  However, Manchester is packed out with hotels at a range of prices, and there are plenty of hotel booking sites (plus Premier Inns!) from which you can choose one that suits you.
+
+The conference fee includes coffee/tea/etc plus lunch.  We are not planning a formal conference dinner.  However, we are planning to reserve an area in the city centre for the Thursday evening where delegates can buy a meal from a range of delicious eateries and then sit together.  The previous evening we will nominate a pub where those who have arrived early can gather to drink, eat and make data.  When you register, you will be asked to indicate whether you are interested in either of these events so that we can gauge rough numbers.  We will firm up details closer to the conference.
+
 
 ## Any Questions?
 
