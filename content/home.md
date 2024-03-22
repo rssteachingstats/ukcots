@@ -24,9 +24,11 @@ The following is the timeline for deadlines and other dates prior to the confere
 * *Registration opens*: 22 March, 2024
 * *Registration closes*: 31 May, 2024
 
-## Registration fee
+## Registration (now open)
 
-The conference registration fee is £160 for two days, and £100 for one day.
+Registration is now open and can be done [here](https://rss.org.uk/training-events/events/events-2024/sections/ukcots-2024/).
+
+The registration fee is £160 for two days, and £100 for one day.
 
 
 ## Conference mailing list 
