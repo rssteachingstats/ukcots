@@ -7,12 +7,9 @@ UKCOTS is for everyone with an interest in the teaching of statistics in higher 
 
 We are looking forward to hearing the best ideas and approaches from across the academic spectrum, so do put the dates in your diary.
 
+### Call for poster presentations
 
-### Call for abstracts (now closed)
-
-Proposals can be for individual contributions of 5 minutes (e.g. lightning talk) or 20 minutes (e.g. longer talk or activity), which will be delivered as part of sessions programmed by the organisers. Alternatively, you may wish to propose an entire 60-minute session yourself (e.g. an interactive workshop, a series of connected talks, or a panel discussion). There is also the option of a poster presentation. We encourage creativity in your proposals, and interactivity will be viewed favourably. The conference will be in person only; presenters will be expected to join us in Manchester for the conference.  
-
-Submit your proposal using the [online form](https://docs.google.com/forms/d/1-z-jEh3XL0mndHQ8CMvzP6TdY9rCoYLQpzQhcldRc4A/viewform?edit_requested=true).
+ll oral presentation slots have now been filled, but if you are interested in presenting a poster please send a title and an abstract of no more than 400 words to <ukcots24@gmail.com> by 17:00 on Wednesday 8th May.
 
 ## Timeline
 
