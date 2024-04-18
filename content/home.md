@@ -9,7 +9,7 @@ We are looking forward to hearing the best ideas and approaches from across the 
 
 ### Call for poster presentations
 
-ll oral presentation slots have now been filled, but if you are interested in presenting a poster please send a title and an abstract of no more than 400 words to <ukcots24@gmail.com> by 17:00 on Wednesday 8th May.
+All oral presentation slots have now been filled, but if you are interested in presenting a poster please send a title and an abstract of no more than 400 words to <ukcots24@gmail.com> by 17:00 on Wednesday 8th May.
 
 ## Timeline
 
