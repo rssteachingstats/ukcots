@@ -30,7 +30,7 @@ The registration fee is £160 for two days, and £100 for one day.
 
 ## Programme
 
-The programme of events, including all presentations is available in the document [programme.pdf](programme.pdf).
+The latest draft programme of events, including all presentations is available in the document [programme.pdf](programme.pdf).
 
 ## Conference mailing list 
 
