@@ -25,8 +25,12 @@ The following is the timeline for deadlines and other dates prior to the confere
 
 Registration is now open and can be done [here](https://rss.org.uk/training-events/events/events-2024/sections/ukcots-2024/).
 
+
 The registration fee is £160 for two days, and £100 for one day.
 
+## Programme
+
+The programme of events, including all presentations is available in the document [programme.pdf](programme.pdf).
 
 ## Conference mailing list 
 

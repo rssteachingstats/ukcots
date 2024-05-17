@@ -1,4 +1,5 @@
 import pypandoc
+import shutil
 from jinja2 import Environment, FileSystemLoader
 
 
@@ -15,3 +16,6 @@ homepage_rendered = template.render(title="UKCOTS", home="UKCOTS 2024", content=
 # write index.html to file
 with open('docs/index.html', 'w') as f:
     f.write(homepage_rendered)
+
+# copy programme.pdf to docs/
+shutil.copyfile('content/programme.pdf', 'docs/programme.pdf')
