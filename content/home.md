@@ -7,9 +7,6 @@ UKCOTS is for everyone with an interest in the teaching of statistics in higher 
 
 We are looking forward to hearing the best ideas and approaches from across the academic spectrum, so do put the dates in your diary.
 
-### Call for poster presentations
-
-All oral presentation slots have now been filled, but if you are interested in presenting a poster please send a title and an abstract of no more than 400 words to <ukcots24@gmail.com> by 17:00 on Wednesday 8th May.
 
 ## Timeline
 
@@ -21,16 +18,18 @@ The following is the timeline for deadlines and other dates prior to the confere
 * *Registration opens*: 22 March, 2024
 * *Registration closes*: 31 May, 2024
 
-## Registration (now open)
+## Registration
 
-Registration is now open and can be done [here](https://rss.org.uk/training-events/events/events-2024/sections/ukcots-2024/).
+**Registration for the conference has now closed**
 
-
-The registration fee is £160 for two days, and £100 for one day.
 
 ## Programme
 
-The latest draft programme of events, including all presentations is available in the document [programme.pdf](programme.pdf).
+The programme of events for the conference, including all presentations is available in the document [Conference Programme](programme.pdf).
+
+## Conference Abstracts
+
+A copy of abstracts for presentations and posters at the conference is available in the document [Conference Abstracts](abstracts.pdf).
 
 ## Conference mailing list 
 

@@ -17,5 +17,6 @@ homepage_rendered = template.render(title="UKCOTS", home="UKCOTS 2024", content=
 with open('docs/index.html', 'w') as f:
     f.write(homepage_rendered)
 
-# copy programme.pdf to docs/
+# copy programme.pdf and abstracts.pdf to docs/
 shutil.copyfile('content/programme.pdf', 'docs/programme.pdf')
+shutil.copyfile('content/abstracts.pdf', 'docs/abstracts.pdf')
