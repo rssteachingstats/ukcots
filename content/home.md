@@ -7,12 +7,19 @@ UKCOTS is for everyone with an interest in the teaching of statistics in higher 
 
 
 
+
+</br>
+
+
 ## Delegate information
+
+</br>
+</br>
 
 
 ### **IMPORTANT: Please sign up to the conference mailing list**
 
-If you have not already done so, please sign up to the conference mailing list at [https://www.jiscmail.ac.uk/ukcots](https://www.jiscmail.ac.uk/ukcots) (click *Subscribe* or Unsubscribe* under *Options*). If we need to pass on important information in advance of or during the conference, we will do so using this mailing list.
+If you have not already done so, please sign up to the conference mailing list at [https://www.jiscmail.ac.uk/ukcots](https://www.jiscmail.ac.uk/ukcots) (click *Subscribe or Unsubscribe* under *Options*). If we need to pass on important information in advance of or during the conference, we will do so using this mailing list.
 
 ### Getting to Manchester
 
@@ -25,7 +32,7 @@ UKCOTS is being hosted by the University of Manchester and is taking place in th
 To get to the venue from Manchester Piccadilly station, you can:
 
 -  Walk: about 15-20 minutes
--  Take a bus: the 147 takes you from Piccadilly station (Stop D - use the Fairfield Street exit) to University Shopping Centre stop on Oxford Road, which is then a 3-minute walk to the Alan Turing Building [note that the 147 bus only runs every 30 minutes]
+-  Take a bus: the 147 takes you from Piccadilly station (Stop D - use the Fairfield Street exit) to the University Shopping Centre stop on Oxford Road, which is then a 3-minute walk to the Alan Turing Building [note that the 147 bus only runs every 30 minutes]
 -  Take a taxi:  there is a taxi rank of black cabs at the Fairfield Street exit from the station (cost: likely to be less than £10)
 
 From Manchester Oxford Road station, you can:
@@ -60,8 +67,8 @@ Abstracts for conference sessions are available here:  [Conference Abstracts](ab
 
 Two social events are planned:
 
--  Pre-conference social on Wednesday 12 June, from 19:00, at Kro Bar, 325 Oxford Rd, Manchester M13 9PG (5-minute walk from the Alan Turing Building). You will be able to purchase drinks and food, and we will be running an informal pub quiz for those who would like to take part. The venue will have a space reserved for UKCOTS delegates.
-- Not-conference-dinner on Thursday 13 June, from 19:00, at Mackie Mayor, Eagle Street, Manchester, M4 5BU. This is a food court in an 1858 Grade II listed market building. Please feel free to buy your own drinks/food at the venue. We will have a reserved space.
+-  Pre-conference social on Wednesday 12 June, from 19:00, at [Kro Bar](https://www.kro.co.uk/), 325 Oxford Rd, Manchester M13 9PG (5-minute walk from the Alan Turing Building). You will be able to purchase drinks and food, and we will be running an informal pub quiz for those who would like to take part. The venue will have a space reserved for UKCOTS delegates.
+- Not-conference-dinner on Thursday 13 June, from 19:00, at [Mackie Mayor](https://www.visitmanchester.com/listing/mackie-mayor/35719101/), Eagle Street, Manchester, M4 5BU. This is a food court in an 1858 Grade II listed market building. Please feel free to buy your own drinks/food at the venue. We will have a reserved space.
 	- Note that Mackie Mayor is on the northern edge of the city centre, about a 35-minute walk from the Alan Turing Building
 	- We expect that most delegates who are going to Mackie Mayor will want to do so directly from their accommodation
 	- For anyone wishing to travel directly from the University of Manchester campus to Mackie Mayor, a group of us will be meeting outside the Alan Turing Building at 18:15
@@ -81,7 +88,7 @@ There are several coffee shops around University Green on Oxford Road, should yo
 
 ### Wi-Fi
 
-Wi-Fi is available on the University of Manchester campus via eduroam or UoM_Guest networks. See[https://www.itservices.manchester.ac.uk/wireless/](https://www.itservices.manchester.ac.uk/wireless/) if further details are required.
+Wi-Fi is available on the University of Manchester campus via eduroam or UoM_Guest networks. See [https://www.itservices.manchester.ac.uk/wireless/](https://www.itservices.manchester.ac.uk/wireless/) if further details are required.
 
 
 ## Any Questions?
