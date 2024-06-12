@@ -91,6 +91,16 @@ There are several coffee shops around University Green on Oxford Road, should yo
 Wi-Fi is available on the University of Manchester campus via eduroam or UoM_Guest networks. See [https://www.itservices.manchester.ac.uk/wireless/](https://www.itservices.manchester.ac.uk/wireless/) if further details are required.
 
 
+### Speed Networking with the RoSE Network
+
+Please note the following updates to Thursday lunchtime’s speed networking session:
+
+The session will now begin at 13:20 (to allow you time to grab some lunch).
+
+If you’re planning on coming along, please let us know via this link: [https://bit.ly/ukcots_speed_networking](https://bit.ly/ukcots_speed_networking) (to help the hosts prepare).
+
+For general information about the session, please see the [conference abstract](abstracts.pdf). 
+
 ## Any Questions?
 
 If you have any questions about the conference, please contact us at <ukcots24@gmail.com>.
