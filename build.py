@@ -1,50 +1,46 @@
 import pypandoc
+import yaml
 import shutil
 from jinja2 import Environment, FileSystemLoader
 
 
-# get the index.html template
+# Get the page.html template.
 environment = Environment(loader=FileSystemLoader("templates/"))
-template = environment.get_template("index.html")
+page_template = environment.get_template("page.html")
 
-# convert home.md to html
-homepage_content = pypandoc.convert_file("content/home.md", "html", format="md")
-special_edition_content = pypandoc.convert_file(
-    "content/special_edition.md", "html", format="md"
-)
-other_events_content = pypandoc.convert_file(
-    "content/other_events.md", "html", format="md"
-)
+# Get the contents dictionary from the yaml file.
+with open("content.yaml") as f:
+    content_dict = yaml.safe_load(f)
 
-# the navbar to the subpages
-subpages_info = [
-    ("special_edition", "Teaching Statistics special edition", special_edition_content),
-    ("related_events", "Related events", other_events_content),
-]
+# This gives us a flat dict of all pages.
+pages = {}
+pages["main"] = content_dict["main"]
+pages.update(content_dict["subpages"])
 
-# render index.html
-homepage_rendered = template.render(
-    title="UKCOTS",
-    home="UKCOTS 2024",
-    subpages_info=subpages_info,
-    content=homepage_content,
-)
-# write index.html to file
-with open("docs/index.html", "w") as f:
-    f.write(homepage_rendered)
+# This gives the basename and navbar label of subpages
+subpages_info = []
+for subpage in content_dict["subpages"].values():
+    subpages_info.append((subpage["basename"], subpage["navbar"]))
 
-# render subpages
-for fname_basename, label, subpage_content in subpages_info:
-    subpage_rendered = template.render(
-        title=label,
-        home="UKCOTS 2024",
+# For the main page and each subpage, render markdown content as html fragement.
+html_content = {}
+html_rendered = {}
+for key, info in pages.items():
+    html_fragment = pypandoc.convert_file(info["content"], "html", format="md")
+    html_rendered = page_template.render(
+        title=info["title"],
+        # All pages must contain the same navbar
+        # hence, we supply info about the main and subpages
+        home_label=pages["main"]["navbar"],
+        home_href=pages["main"].get("href", pages["main"]["basename"] + ".html"),
         subpages_info=subpages_info,
-        content=subpage_content,
+        # its content is the rendered fragment
+        content=html_fragment,
     )
-    fname = "docs/" + fname_basename + ".html"
-
+    fname = "docs/" + info["basename"] + ".html"
     with open(fname, "w") as f:
-        f.write(subpage_rendered)
+        f.write(html_rendered)
+
 
 # copy programme.pdf and abstracts.pdf to docs/
 shutil.copyfile("content/programme.pdf", "docs/programme.pdf")
