@@ -4,9 +4,9 @@ The UKCOTS website is available at <https://www.ukcots.org>. This repository con
 
 ## Website content and source files
 
-The `content.yaml` file contains the skeleton of the website's content, including links to the markdown source files for the main page and each subpage.
-To update the content of the website, information in `content.yaml` can be changed.
-It is more likely, however, that all that will need to change is the contents of the markdown source files for each page.
+The [`content.yaml`](`content.yaml`) file contains the skeleton of the website's content, including links to the markdown source files for the main page and each subpage.
+To update the content of the website, information in `content.yaml` may need to be changed.
+It is more likely, however, that all that will need to change is the contents of the markdown source files for each webpage, which are referenced in `content.yaml`
 
 ## To build the website's static html files
 
