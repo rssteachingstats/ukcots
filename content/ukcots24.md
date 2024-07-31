@@ -3,7 +3,7 @@
 
 **Slides from UKCOTS 2024**
 
-Material from presenters who consented to sharing their slides can be accessed [here](https://github.com/craigalexander/UKCOTS-2024-Presentations). These are organised by day and parallel session. We encourage you to make contact with presenters directly if you are interested in their work, especially if their slides are not available here. 
+Material from presenters who consented to sharing their slides can be accessed [here](https://github.com/rssteachingstats/UKCOTS-2024-Presentations). These are organised by day and parallel session. We encourage you to make contact with presenters directly if you are interested in their work, especially if their slides are not available here. 
 
 
 **Photos from UKCOTS 2024**
