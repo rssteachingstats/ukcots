@@ -21,7 +21,7 @@ Thereafter, we aim to hold a UKCOTS every other year.
 ## Keep in touch
 
 - Sign up to the UKCOTS mailing list at [https://www.jiscmail.ac.uk/ukcots](https://www.jiscmail.ac.uk/ukcots) (click _Subscribe or Unsubscribe_ under _Options_).
-  We won't spam: only information relevant to UKCOTS and other COTS will be sent.
+  We won't spam: only information relevant to UKCOTS and other COTS events will be sent.
   Information about the next UKCOTS will be sent through this channel, as will alerts about major changes to the UKCOTS website.
 
 - Sign up to the Burwalls mailing list at [https://www.jiscmail.ac.uk/burwalls](https://www.jiscmail.ac.uk/burwalls).
