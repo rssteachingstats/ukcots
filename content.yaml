@@ -9,14 +9,14 @@ main:
   content: "content/home.md"
   title: "UKCOTS: UK Conference on Teaching Statistics"
   basename: "index"
-  navbar: "UKCOTS"
+  navbar: "UKCOTS 25"
   href: "/"
 subpages:
   ukcots24:
     content: "content/ukcots24.md"
     title: "Outputs from UKCOTS 2024"
     basename: "ukcots24"
-    navbar: "UKCOTS 24 outputs"
+    navbar: "UKCOTS 24"
   special_edition:
     content: "content/special_edition.md"
     title: "Teaching Statistics special edition"
