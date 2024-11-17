@@ -1,0 +1,25 @@
+---
+title: "UKCOTS: _Teaching Statistics in HE, across all disciplines_"
+---
+
+UKCOTS is for everyone with an interest in the teaching of statistics in higher education in whatever department or discipline.
+
+While the primary intended audience is statistics educators working in higher education, the conference is open to all, including those interested in pre-18 statistics education, or in professional training.
+
+## UKCOTS 25 - Save the Date!
+
+We are delighted to announce that the next UKCOTS will take place at the [University of Glasgow](https://www.gla.ac.uk/) on the 24th and 25th of June 2025. More details will be announced in due course.
+
+![](images/UKCOTS_24_500_trans.png){fig-alt="UKCOTS 2025 Logo" fig-align="centre" width=40%}
+
+## Keep in touch
+
+-   Sign up to the UKCOTS mailing list at <https://www.jiscmail.ac.uk/ukcots> (click *Subscribe or Unsubscribe* under *Options*). We won't spam: only information relevant to UKCOTS and other COTS events will be sent. Information about the next UKCOTS will be sent through this channel, as will alerts about major changes to the UKCOTS website.
+
+-   Sign up to the Burwalls mailing list at <https://www.jiscmail.ac.uk/burwalls>.
+
+-   Sign up to the RSS Teaching Statistics newsletter at [RSS Teaching Statistics section homepage](https://rss.org.uk/membership/rss-groups-and-committees/sections/teaching-statistics/){target="_blank"}.
+
+-   Follow the RSS Teaching Statistics Section on [X/Twitter](https://twitter.com/rss_teach){target="_blank"}.
+
+-   Follow the RSS Teaching Statistics Section on [LinkedIn](https://www.linkedin.com/company/rss-teaching-statistics-section){target="_blank"}.

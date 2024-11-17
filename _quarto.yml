@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "UKCOTS 25"
+  image: images/UKCOTS_24_500_white.png
+  favicon: images/UKCOTS_24_500_white.png
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - ukcots24.qmd
+      - teachingstats.qmd
+      - relatedevents.qmd
+
+format:
+  html:
+    theme: simplex
+    css: styles.css
+    toc: true
+
+editor: visual
+
