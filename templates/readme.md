@@ -1,0 +1,1 @@
+The jinja templates used to make the static html pages.
