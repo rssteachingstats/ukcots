@@ -5,10 +5,17 @@ While the primary intended audience is statistics educators working in higher ed
 
 
 
-## UKCOTS 25 - Save the Date!
+## UKCOTS 25 - Key Dates
 
 We are delighted to announce that the next UKCOTS will take place at the [University of Glasgow](https://www.gla.ac.uk/)  on the 24th and 25th of June 2025.
-More details will be announced in due course.
+
+Below is a timeline of deadlines and other dates prior to the conference:
+
+* Call for abstracts: 2nd December
+* Closing date for abstracts: 7th February
+* Reply to all those proposing abstracts: 20th March
+* Registration opens: 20th March
+* Registration closes: 5th June
 
 ## Keep in touch
 
