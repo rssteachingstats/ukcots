@@ -1,0 +1,62 @@
+---
+title: "Teaching Statistics Special Issue"
+---
+
+**Teaching statistics UKCOTS special issue**
+
+UKCOTS presenters, which includes presenters of workshops, short oral
+presentations, posters, and members of panels, are encouraged to submit a paper
+for the UKCOTS [Teaching Statistics](https://onlinelibrary.wiley.com/journal/14679639){target="_blank"} special edition.
+
+- The deadline for submission is 31 October 2024, with publication roughly mid-2025.
+
+- General [author guidelines](https://onlinelibrary.wiley.com/page/journal/14679639/homepage/forauthors.html){target="_blank"} apply to special editions, though note the further information below.
+
+- Papers should be submitted via ScholarOne [Teaching Statistics (wiley.com)](https://mc.manuscriptcentral.com/teachstats){target="_blank"}
+
+    - There is no special link or portal to submit for the UKCOTS special edition; please use the standard Teaching Statistics submission portal.
+
+    - During the submission process, there will be a box to tick to indicate that your work is for a special edition. Please ensure you tick the box!
+
+- You will be supported! Reviewers will give you constructive feedback to
+  improve your work; they are not there to tear it apart.
+
+**Advice from Helen MacGillivray, Editor of Teaching Statistics**
+
+Potential authors can write about an educational research project, actual
+teaching in Higher Education, or anything else that's relevant. Authors should make sure that they:
+
+- Fully describe teaching context;
+
+- Give relevant references and link with existing statistics education
+  literature;
+
+    - It may be useful to search for terms in the [Teaching Statistics journal](https://onlinelibrary.wiley.com/journal/14679639){target="_blank"} and use those references;
+
+    - Another excellent source are the [International Conference on Statistics Education (ICOTS) proceedings](http://iase-web.org/Conference_Proceedings.php).
+
+- Don't generalise or over-claim;
+
+- Avoid verbosity;
+
+- Analyse objectively -- that is, present what evidence there is and/or
+  analyse with respect to good statistics;
+
+    - Don't be afraid of using graphical displays of data or other useful information;
+
+    - There is no need to conduct statistical analysis unless there is clear need to do so.
+
+- Discuss the limitations of your work.
+
+It is a good idea to look at prize-winning articles of in Teaching Statistics
+to get a feel for style and how to pitch a Teaching Statistics paper. However,
+the nature of a paper will depend on your topic, so don't be put off by if these don't resonate with you.
+
+**General resources on pedagogic research**
+
+In response to Thursday afternoon's panel on research in teaching statistics in Higher Education, you may find the advice on getting started in statistics education research on the [Consortium for the Advancement of Undergraduate Statistics Education (CAUSE) website](https://causeweb.org/cause/){target="_blank"} helpful.
+
+**Need more information?**
+
+Please contact Elinor Jones (<elinor.jones@ucl.ac.uk>) for more information or
+further advice.
