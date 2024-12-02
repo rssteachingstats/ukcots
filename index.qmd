@@ -6,15 +6,23 @@ UKCOTS is for everyone with an interest in the teaching of statistics in higher 
 
 While the primary intended audience is statistics educators working in higher education, the conference is open to all, including those interested in pre-18 statistics education, or in professional training.
 
-## UKCOTS 25 - Save the Date!
+## UKCOTS 25 - Call for abstracts open!
 
 We are delighted to announce that the next UKCOTS will take place at the [University of Glasgow](https://www.gla.ac.uk/) on the 24th and 25th of June 2025.
 
 ![](images/UKCOTS_24_500_trans.png){fig-alt="UKCOTS 2025 Logo" fig-align="centre" width="40%"}
 
+The call for abstracts is now open for UKCOTS 25. Proposals can be for individual contributions of 5 minutes (e.g. lightning talk) or 20 minutes (e.g. longer talk or activity), which will be delivered as part of sessions arranged by the organisers. Alternatively, you may wish to propose an entire 60-minute session yourself (e.g. an interactive workshop, a hackathon, a series of connected talks, or a panel discussion). Please note that due to time constraints, it is likely only a small number of 60 minute proposals will be accepted.  There is also the option of a poster presentation. We encourage creativity in your proposals, and interactivity will be viewed favourably. The conference will be in person only; presenters will be expected to join us in Glasgow for the conference.
+
+Submit your proposal using the [online form](https://docs.google.com/forms/d/e/1FAIpQLSezZm6n3OZKK8vwyrlgenQKz0JlZgmi4-T4GuAufiynDuPhmw/viewform).\
+\
+The abstract deadline is **7th February 2025**.
+
+### UKCOTS 25 - Timeline
+
 Below is a timeline of deadlines and other dates prior to the conference:
 
--   Call for abstracts: 2nd December
+-   Call for abstracts opens: 2nd December
 -   Closing date for abstracts: 7th February
 -   Reply to all those proposing abstracts: 20th March
 -   Registration opens: 20th March
