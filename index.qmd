@@ -2,15 +2,17 @@
 title: "UKCOTS: _Teaching Statistics in HE, across all disciplines_"
 ---
 
-UKCOTS is for everyone with an interest in the teaching of statistics in higher education in whatever department or discipline.
+UK Conference On Teaching Statistics (UKCOTS) is for everyone with an interest in the teaching of statistics in higher education in whatever department or discipline. UKCOTS is supported by the Royal Statistical Society (RSS). 
 
 While the primary intended audience is statistics educators working in higher education, the conference is open to all, including those interested in pre-18 statistics education, or in professional training.
+
+![](images/RSS_logo.jpg){fig-alt="RSS Logo" fig-align="center" width="30%"}
 
 ## UKCOTS 25 - Call for abstracts open!
 
 We are delighted to announce that the next UKCOTS will take place at the [University of Glasgow](https://www.gla.ac.uk/) on the 24th and 25th of June 2025.
 
-![](images/UKCOTS_24_500_trans.png){fig-alt="UKCOTS 2025 Logo" fig-align="centre" width="40%"}
+![](images/UKCOTS_24_500_white_cropped.png){fig-alt="UKCOTS 2025 Logo" fig-align="center" width="40%"}
 
 The call for abstracts is now open for UKCOTS 25. Proposals can be for individual contributions of 5 minutes (e.g. lightning talk) or 20 minutes (e.g. longer talk or activity), which will be delivered as part of sessions arranged by the organisers. Alternatively, you may wish to propose an entire 60-minute session yourself (e.g. an interactive workshop, a hackathon, a series of connected talks, or a panel discussion). Please note that due to time constraints, it is likely only a small number of 60 minute proposals will be accepted.  There is also the option of a poster presentation. We encourage creativity in your proposals, and interactivity will be viewed favourably. The conference will be in person only; presenters will be expected to join us in Glasgow for the conference.
 
