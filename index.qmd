@@ -2,11 +2,11 @@
 title: "UKCOTS: _Teaching Statistics in HE, across all disciplines_"
 ---
 
-UK Conference On Teaching Statistics (UKCOTS) is for everyone with an interest in the teaching of statistics in higher education in whatever department or discipline. UKCOTS is supported by the Royal Statistical Society (RSS). 
-
-While the primary intended audience is statistics educators working in higher education, the conference is open to all, including those interested in pre-18 statistics education, or in professional training.
+UK Conference On Teaching Statistics (UKCOTS) is for everyone with an interest in the teaching of statistics in higher education in whatever department or discipline. UKCOTS is supported by the Royal Statistical Society (RSS).
 
 ![](images/RSS_logo.jpg){fig-alt="RSS Logo" fig-align="center" width="30%"}
+
+While the primary intended audience is statistics educators working in higher education, the conference is open to all, including those interested in pre-18 statistics education, or in professional training.
 
 ## UKCOTS 25 - Call for abstracts open!
 
