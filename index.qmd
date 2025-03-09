@@ -20,6 +20,10 @@ Submit your proposal using the [online form](https://docs.google.com/forms/d/e/1
 \
 The abstract deadline has now been extended to **21st February 2025**.
 
+#### Workshop Proposals
+
+For those interested in hosting a pre or post conference workshop during UKCOTS, we are happy to promote your event. We request that such workshops should be organised by the proposer.
+
 ### UKCOTS 25 - Timeline
 
 Below is a timeline of deadlines and other dates prior to the conference:
@@ -30,11 +34,19 @@ Below is a timeline of deadlines and other dates prior to the conference:
 -   Registration opens: 27th March
 -   Registration closes: 6th June
 
+## Social Events
+
+During the conference, we will hold several social events including an informal dinner. All events will take place in the city centre of Glasgow. More details to follow.
+
 ## Accommodation for UKCOTS
 
 Due to other events taking place in Glasgow around the time of UKCOTS, accommodation prices are likely to increase as we approach the conference date. We would encourage attendees of UKCOTS to book their accommodation early to avoid price increases.
 
 You can find further information on hotels around Glasgow and the university area [here](supporting/accommodation.pdf).
+
+## Promotional opportunities at UKCOTS 25
+
+If you are interested in being a sponsor of UKCOTS 25, please get in touch via email: [conference\@ukcots.org](mailto:conference@ukcots.org){.email}
 
 ## Keep in touch
 
@@ -49,3 +61,9 @@ You can find further information on hotels around Glasgow and the university are
 -   Follow the RSS Teaching Statistics Section on [X/Twitter](https://twitter.com/rss_teach){target="_blank"}.
 
 -   Follow the RSS Teaching Statistics Section on [LinkedIn](https://www.linkedin.com/company/rss-teaching-statistics-section){target="_blank"}.
+
+-   If you have any questions about the conference, please contact us at [conference\@ukcots.org](mailto:conference@ukcots.org){.email}
+
+*UKCOTS 25 is supported by the Glasgow Convention Bureau*
+
+![](images/Crest.jpg){fig-alt="Glasgow" fig-align="center" width="20%"}

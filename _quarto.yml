@@ -13,7 +13,6 @@ website:
       - ukcots24.qmd
       - teachingstats.qmd
       - relatedevents.qmd
-
 format:
   html:
     theme: simplex
