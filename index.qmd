@@ -1,5 +1,6 @@
 ---
 title: "UKCOTS: _Teaching Statistics in HE, across all disciplines_"
+subtitle: "University of Glasgow, 24th - 25th June, 2025"
 ---
 
 UK Conference On Teaching Statistics (UKCOTS) is for everyone with an interest in the teaching of statistics in higher education in whatever department or discipline. UKCOTS is supported by the Royal Statistical Society (RSS).
@@ -8,19 +9,20 @@ UK Conference On Teaching Statistics (UKCOTS) is for everyone with an interest i
 
 While the primary intended audience is statistics educators working in higher education, the conference is open to all, including those interested in pre-18 statistics education, or in professional training.
 
-## UKCOTS 25 - Call for abstracts - Deadline extended to 21st February!
+## UKCOTS 25
 
 We are delighted to announce that the next UKCOTS will take place at the [University of Glasgow](https://www.gla.ac.uk/) on the 24th and 25th of June 2025.
 
 ![](images/UKCOTS_24_500_white_cropped.png){fig-alt="UKCOTS 2025 Logo" fig-align="center" width="40%"}
 
-The call for abstracts is now open for UKCOTS 25. Proposals can be for individual contributions of 5 minutes (e.g. lightning talk) or 20 minutes (e.g. longer talk or activity), which will be delivered as part of sessions arranged by the organisers. Alternatively, you may wish to propose an entire 60-minute session yourself (e.g. an interactive workshop, a hackathon, a series of connected talks, or a panel discussion). Please note that due to time constraints, it is likely only a small number of 60 minute proposals will be accepted. For 60-minute sessions, we request that any proposals are organised by the proposer. There is also the option of a poster presentation. We encourage creativity in your proposals, and interactivity will be viewed favourably. The conference will be in person only; presenters will be expected to join us in Glasgow for the conference.
+### Call for poster presentations
+All oral presentation slots have now been filled, but if you are interested in presenting a poster at the conference, please send a title and an abstract of no more than 400 words to [conference\@ukcots.org](mailto:conference@ukcots.org){.email} by 17:00 on Friday 16th May.  
 
-Submit your proposal using the [online form](https://docs.google.com/forms/d/e/1FAIpQLSezZm6n3OZKK8vwyrlgenQKz0JlZgmi4-T4GuAufiynDuPhmw/viewform).\
-\
-The abstract deadline has now been extended to **21st February 2025**.
+### Registration for UKCOTS 25
 
-#### Workshop Proposals
+Registration for UKCOTS 25 will open on Thursday 27th March. More information on registration will follow shortly. 
+
+### Workshop Proposals
 
 For those interested in hosting a pre or post conference workshop during UKCOTS, we are happy to promote your event. We request that such workshops should be organised by the proposer.
 
