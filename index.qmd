@@ -13,14 +13,23 @@ While the primary intended audience is statistics educators working in higher ed
 
 We are delighted to announce that the next UKCOTS will take place at the [University of Glasgow](https://www.gla.ac.uk/) on the 24th and 25th of June 2025.
 
-![](images/UKCOTS_24_500_white_cropped.png){fig-alt="UKCOTS 2025 Logo" fig-align="center" width="40%"}
+![](images/UKCOTS_24_500_white_cropped.png){fig-alt="UKCOTS 2025 Logo" fig-align="center" width="40%"} 
 
-### Call for poster presentations
-All oral presentation slots have now been filled, but if you are interested in presenting a poster at the conference, please send a title and an abstract of no more than 400 words to [conference\@ukcots.org](mailto:conference@ukcots.org){.email} by 17:00 on Friday 16th May.  
 
 ### Registration for UKCOTS 25
 
-Registration for UKCOTS 25 will open on Thursday 27th March. More information on registration will follow shortly. 
+Registration for UKCOTS 25 is now open and can be completed [here](https://rss.org.uk/training-events/events/events-2025/section-groups/uk-conference-on-teaching-statistics-2025/?viewmode=0).
+
+The registration fee is £165 for two days and £105 for one day. 
+
+For RSS members, the registration fee is £150 for two days and £95 for one day. 
+
+We are offering a discounted rate for RSS Student Fellows and e-teacher members. The registration fee is £120 for 2 days and £70 for one day. 
+
+
+### Call for poster presentations
+
+All oral presentation slots have now been filled, but if you are interested in presenting a poster at the conference, please send a title and an abstract of no more than 400 words to [conference\@ukcots.org](mailto:conference@ukcots.org){.email} by 17:00 on Friday 16th May.
 
 ### Workshop Proposals
 
