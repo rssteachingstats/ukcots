@@ -20,8 +20,6 @@ Dr Emily Nordmann is the Deputy Director of Education in the School of Psycholog
 
 Dr Jenn Gaskell is a Lecturer in the School of Maths & Stats at the University of Glasgow. Here, she chairs the school’s AI committee and is involved in the creation of several courses around effective and responsible AI usage for data scientists in both academia and industry. She teaches Python programming and machine-learning across the Statistics and Data Analytics Masters programmes. Jenn is interested in the impact of AI on statistical education, with a passion for teaching relevant skills for entering an AI-enabled workplace. 
 
-[**Dr Matthew Forshaw**](https://www.ncl.ac.uk/computing/staff/profile/matthewforshaw.html)
-
 ## Social Events
 
 During the conference, we will hold several social events including an informal dinner. All events will take place in the city centre of Glasgow. More details to follow.
