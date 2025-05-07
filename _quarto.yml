@@ -10,6 +10,7 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - ukcots25.qmd
       - ukcots24.qmd
       - teachingstats.qmd
       - relatedevents.qmd
