@@ -28,9 +28,9 @@ Dr Jenn Gaskell is a Lecturer in the School of Maths & Stats at the University o
 
 Dr Matthew Forshaw is Senior Advisor for Skills to The Alan Turing Institute, the UK's national institute for Data Science and Artificial Intelligence, and a Reader in Data Science at Newcastle University, UK. His work in data and AI skills includes working with the Government on the skills pillar of the UK's National Data Strategy and National AI Strategy, as College of Experts member to the UK Department for Science, Innovation and Technology (DSIT), and leading the development of AI Skills for Business competency framework with Innovate UK BridgeAI. His work on professionalisation of the data science occupation with the Alliance of Data Science Professionals is having a significant impact on public and professional policy and practice, setting professional values and ethical standards for the use of data science and AI for the UK's accreditation and certification processes across several major professional bodies. He is passionate about democratising access to, and widening participation into, data and AI skills training at all levels.
 
-## StataNow 19 Workshop
+## **StataNow 19 Workshop**
 
-We are excited to share that during the conference, we will host a workshop on the newly released StataNow 19, kindly hosted by Timberlake Consultants.
+We are excited to share that during the conference, we will host a workshop on the newly released StataNow 19, kindly hosted by Timberlake Consultants. This workshop will take place during the lunch break on Tuesday of the conference.
 
 The **StataNow 19 Workshop** is a focused, hands-on session designed to introduce researchers, data analysts, and policy professionals to powerful new features in **Stata 19**. Led by expert instructor **Vincent O’Sullivan**, this one-hour workshop covers enhancements in **data visualisation**, **table creation**, and **treatment effect estimation**, enabling participants to produce clearer, more reproducible, and more insightful results.
 
@@ -40,22 +40,10 @@ A detailed agenda for the workshop can be found [here](supporting/StataNow_Works
 
 Spaces are limited for the workshop. Please register your attendance using the form [here](https://form.jotform.com/251463174073353).
 
-## Lunchtime Yoga
+## **Lunchtime Yoga**
 
-Take a break from the conference and refresh your mind and body with our invigorating lunchtime yoga session. Perfect for all levels, this session will help you stretch, breathe, and reset—so you can return to the afternoon sessions feeling focused and energised.
+Take a break from the conference and refresh your mind and body with our invigorating lunchtime yoga session. Perfect for all levels, this session will help you stretch, breathe, and reset—so you can return to the afternoon sessions feeling focused and energised. Lunchtime yoga will take place during the lunch break on Wednesday afternoon.
 
 No experience needed—just bring yourself and a willingness to unwind!
 
 We have a limited supply of mats for the yoga session. If you have (and are able to bring) your own mat, this would be greatly appreciated.
-
-## Social Events
-
-During the conference, we will hold several social events including an informal dinner. All events will take place in the city centre of Glasgow. More details to follow shortly.
-
-## Accommodation for UKCOTS
-
-Due to other events taking place in Glasgow around the time of UKCOTS, accommodation prices are likely to increase as we approach the conference date. We would encourage attendees of UKCOTS to book their accommodation early to avoid any price increases.
-
-You can find further information on hotels around Glasgow and the university area [here](supporting/accommodation.pdf).
-
-A map of hotels within Glasgow can also be found [here](supporting/hotelmap.pdf) to help with your planning.

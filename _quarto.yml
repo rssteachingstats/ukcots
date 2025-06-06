@@ -11,6 +11,7 @@ website:
       - href: index.qmd
         text: Home
       - ukcots25.qmd
+      - delegates.qmd
       - ukcots24.qmd
       - teachingstats.qmd
       - relatedevents.qmd
