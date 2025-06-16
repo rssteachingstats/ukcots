@@ -26,6 +26,8 @@ Dr Jenn Gaskell is a Lecturer in the School of Maths & Stats at the University o
 
 [**Dr Matthew Forshaw**](https://www.ncl.ac.uk/computing/staff/profile/matthewforshaw.html)
 
+![](images/Matt.jpg){width="371"}
+
 Dr Matthew Forshaw is Senior Advisor for Skills to The Alan Turing Institute, the UK's national institute for Data Science and Artificial Intelligence, and a Reader in Data Science at Newcastle University, UK. His work in data and AI skills includes working with the Government on the skills pillar of the UK's National Data Strategy and National AI Strategy, as College of Experts member to the UK Department for Science, Innovation and Technology (DSIT), and leading the development of AI Skills for Business competency framework with Innovate UK BridgeAI. His work on professionalisation of the data science occupation with the Alliance of Data Science Professionals is having a significant impact on public and professional policy and practice, setting professional values and ethical standards for the use of data science and AI for the UK's accreditation and certification processes across several major professional bodies. He is passionate about democratising access to, and widening participation into, data and AI skills training at all levels.
 
 ## **StataNow 19 Workshop**
