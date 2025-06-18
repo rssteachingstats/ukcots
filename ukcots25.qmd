@@ -8,6 +8,10 @@ UKCOTS 2025 will take place on the **24th - 25th June** **at the [Wolfson Medica
 
 A preliminary schedule of events during the conference is now available to view [here](supporting/Timetable.pdf). Please note this schedule may be subject to change.
 
+## **Book of Abstracts**
+
+A copy of abstracts for presentations and posters at the conference is available in the document [Conference Abstracts](supporting/UKCOTS25_abstracts.pdf).
+
 ## **Plenary Session - Generative AI vs. Critical Thinking**
 
 We are delighted to announce that our plenary session at UKCOTS 2025 will explore the relationship between generative AI and critical thinking, studying its implications for higher education. Our three invited speakers will present perspectives on generative AI in education within their own practice, followed by a panel discussion.
