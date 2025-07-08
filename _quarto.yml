@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "UKCOTS 25"
+  title: "UKCOTS"
   image: images/UKCOTS_24_500_white.png
   favicon: images/UKCOTS_24_500_white.png
   navbar:
