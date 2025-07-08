@@ -1,6 +1,5 @@
 ---
 title: "UKCOTS: _Teaching Statistics in HE, across all disciplines_"
-subtitle: "University of Glasgow, 24th - 25th June, 2025"
 ---
 
 UK Conference On Teaching Statistics (UKCOTS) is for everyone with an interest in the teaching of statistics in higher education in whatever department or discipline. UKCOTS is supported by the Royal Statistical Society (RSS).
@@ -9,29 +8,11 @@ UK Conference On Teaching Statistics (UKCOTS) is for everyone with an interest i
 
 While the primary intended audience is statistics educators working in higher education, the conference is open to all, including those interested in pre-18 statistics education, or in professional training.
 
-## UKCOTS 25
+With the second UKCOTS held at University of Glasgow now completed following the success of the first UKCOTS at the University of Manchester, we will be planning to host the next UKCOTS in 2027. Watch this space for updates!
 
-We are delighted to announce that the next UKCOTS will take place at the [University of Glasgow](https://www.gla.ac.uk/) on the 24th and 25th of June 2025.
+## Teaching Statistics UKCOTS special edition
 
-![](images/UKCOTS_24_500_white_cropped.png){fig-alt="UKCOTS 2025 Logo" fig-align="center" width="40%"}
-
-### Registration for UKCOTS 25
-
-Registration for UKCOTS 25 is now open and can be completed [here](https://rss.org.uk/training-events/events/events-2025/section-groups/uk-conference-on-teaching-statistics-2025/?viewmode=0).
-
-The registration fee is £165 for two days and £105 for one day.
-
-For RSS members, the registration fee is £150 for two days and £95 for one day.
-
-We are offering a discounted rate for RSS Student Fellows and e-teacher members. The registration fee is £120 for 2 days and £70 for one day.
-
-### Workshop Proposals
-
-For those interested in hosting a pre or post conference workshop during UKCOTS, we are happy to promote your event. We request that such workshops should be organised by the proposer.
-
-## Promotional opportunities at UKCOTS 25
-
-If you are interested in being a sponsor of UKCOTS 25, please get in touch via email: [conference\@ukcots.org](mailto:conference@ukcots.org){.email}
+We are delighted to announce that a [Teaching Statistics](https://onlinelibrary.wiley.com/journal/14679639){target="_blank"} special edition for UKCOTS24 will be published in the near future. More information to follow!
 
 ## Keep in touch
 
@@ -48,11 +29,3 @@ If you are interested in being a sponsor of UKCOTS 25, please get in touch via e
 -   Follow the RSS Teaching Statistics Section on [LinkedIn](https://www.linkedin.com/company/rss-teaching-statistics-section){target="_blank"}.
 
 -   If you have any questions about the conference, please contact us at [conference\@ukcots.org](mailto:conference@ukcots.org){.email}
-
-*This conference is kindly sponsored by [Timberlake Consultants](https://timberlake.co/uk/)*
-
-![](images/Timberlake.png)
-
-*UKCOTS 25 is supported by the Glasgow Convention Bureau*
-
-![](images/Crest.jpg){fig-alt="Glasgow" fig-align="center" width="20%"}
