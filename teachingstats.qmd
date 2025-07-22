@@ -2,40 +2,11 @@
 title: "Teaching Statistics Special Issue"
 ---
 
-**Teaching statistics UKCOTS special issue**
+## UKCOTS 2024 special issue
 
 We are delighted to announce that a [Teaching Statistics](https://onlinelibrary.wiley.com/journal/14679639){target="_blank"} special edition for UKCOTS24 will be published in 2025. More information to follow!
 
-**Advice from Helen MacGillivray, Editor of Teaching Statistics on educational research writing**
-
-Potential authors can write about an educational research project, actual teaching in Higher Education, or anything else that's relevant. Authors should make sure that they:
-
--   Fully describe teaching context;
-
--   Give relevant references and link with existing statistics education literature;
-
-    -   It may be useful to search for terms in the [Teaching Statistics journal](https://onlinelibrary.wiley.com/journal/14679639){target="_blank"} and use those references;
-
-    -   Another excellent source are the [International Conference on Statistics Education (ICOTS) proceedings](http://iase-web.org/Conference_Proceedings.php).
-
--   Don't generalise or over-claim;
-
--   Avoid verbosity;
-
--   Analyse objectively -- that is, present what evidence there is and/or analyse with respect to good statistics;
-
-    -   Don't be afraid of using graphical displays of data or other useful information;
-
-    -   There is no need to conduct statistical analysis unless there is clear need to do so.
-
--   Discuss the limitations of your work.
-
-It is a good idea to look at prize-winning articles of in Teaching Statistics to get a feel for style and how to pitch a Teaching Statistics paper. However, the nature of a paper will depend on your topic, so don't be put off by if these don't resonate with you.
-
-**General resources on pedagogic research**
+## General resources on pedagogic research
 
 In response to Thursday afternoon's panel on research in teaching statistics in Higher Education at UKCOTS24, you may find the advice on getting started in statistics education research on the [Consortium for the Advancement of Undergraduate Statistics Education (CAUSE) website](https://causeweb.org/cause/){target="_blank"} helpful.
 
-**Need more information?**
-
-Please contact Elinor Jones ([elinor.jones\@ucl.ac.uk](mailto:elinor.jones@ucl.ac.uk){.email}) for more information or further advice.
