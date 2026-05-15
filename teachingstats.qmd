@@ -2,11 +2,12 @@
 title: "Teaching Statistics Special Issue"
 ---
 
-## UKCOTS 2024 special issue
+## UKCOTS 2024 Special Issue
 
-We are delighted to announce that a [Teaching Statistics](https://onlinelibrary.wiley.com/journal/14679639){target="_blank"} special edition for UKCOTS24 will be published in 2025. More information to follow!
+We are delighted to announce that the [Teaching Statistics](https://onlinelibrary.wiley.com/toc/14679639/2026/48/S1){target="_blank"} special edition for UKCOTS24 is finally published!
 
-## General resources on pedagogic research
+The special issue includes 11 original articles such as "Hackathons in Statistics and Data Science Education and Experiences from ASA DataFest" and "Teaching research and evidence based medicine to medical students using a flipped classroom framework". All the articles are available to read open access. 
+
+## General Resources on Pedagogic Research
 
 In response to Thursday afternoon's panel on research in teaching statistics in Higher Education at UKCOTS24, you may find the advice on getting started in statistics education research on the [Consortium for the Advancement of Undergraduate Statistics Education (CAUSE) website](https://causeweb.org/cause/){target="_blank"} helpful.
-
